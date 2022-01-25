@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.css-6aqsbn-MuiButtonBase-root-MuiTab-root.Mui-selected{
+  color:black !important;
+  background: whitesmoke;
+  border-bottom: whitesmoke;
+}
+
+.upIcon{
+  color: #00D94E !important;
+}
+.downIcon{
+  color:#FF3832 !important
+}
+input{
+  /* border:none; */
+  outline:none;
+  width:'100%'
+}
+.percentage-bar{
+/* width:12rem; */
+height:1rem;
+background: rgb(228, 183, 35);
+}
